@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Chris
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... Kali Os, Python
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 👀 I’m interested in Learning and be better
+- 🌱 I’m currently learning ... Kali Os, Python, JS
+- 💞️ I’m looking to collaborate on ... CyberSec field
 
 <!---
 Naddeist/Naddeist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
